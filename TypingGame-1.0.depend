@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485829664 source:d:\my documents\c++\typinggame\typinggame-1.0\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	<algorithm>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<climits>
+	<cfloat>
+	<fstream>
+
