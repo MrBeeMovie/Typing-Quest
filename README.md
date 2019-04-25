@@ -12,3 +12,5 @@ Example of turn in action.
 
 ![combat_typing](https://user-images.githubusercontent.com/36082261/52249295-5405aa00-28c0-11e9-854c-c9715c69869c.PNG)
 All options are selected by typing them at the bottom of the screen.
+
+The word list for the knight class contains simple words to test out. The word list for the mage contains more difficult words. To change the words used in the game you can change the .txt files that come with the game. Make sure when editing the word lists to seperate each word by a newline character.
