@@ -1,4 +1,6 @@
 # Typing-Quest
+When downloading the game be sure download and extract entire zip file. You can then launch the game through the executable file contained within the folder. The game currently only works on Windows.
+
 Typing game which contains turn based combat and RPG elements.
 
 ![main_menu](https://user-images.githubusercontent.com/36082261/52249300-5831c780-28c0-11e9-9f21-fc0408404291.PNG)
